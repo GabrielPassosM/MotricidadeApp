@@ -6,6 +6,10 @@ Projeto do meu TCC de Sistemas de Informação, da Universidade Presbiteriana Ma
 
 Foi meu primeiro projeto "relevante" usando Java. Utilizei a biblioteca LibGDX, para a criação das telas e mecânica dos jogos. Achei o resultado super satisfatório.
 
+Link para baixar a apk [aqui.](https://drive.google.com/file/d/1ujUvcRNNehmOl6WEnDr7L6YcCsYq6cLa/view?usp=sharing)
+
+Prints das telas abaixo
+
 1. Tela inicial
    
 ![github-tela-inicial](https://github.com/user-attachments/assets/5d8b53c4-1bce-48cb-b5fe-5d3d0b8ebc50)
